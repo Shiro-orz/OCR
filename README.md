@@ -26,3 +26,17 @@ cd ctpn/utils/bbox
 python setup.py install
 #在文件夹中找到*.pyd后缀的文件，移至当前目录下
 ```
+### Prepare Data
+#### CTPN
+- 下载 checkpoint file
+- 把 checkpoints_mlt/ 移至 ctpn/
+#### CRNN
+- 下载预训练的模型
+- 将模型移至 crnn/
+- 在 crnn/densenet/model.py 中，修改 modelPath 可以选择要使用的模型文件
+### Run
+```
+python run.py
+```
+浏览器打开本地链接：http://127.0.0.1:5000/
+![图片]()
