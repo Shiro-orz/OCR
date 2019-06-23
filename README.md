@@ -63,4 +63,5 @@ python train.py
 
 ## Reference
 CTPN : https://github.com/eragonruan/text-detection-ctpn
+
 DenseNet + CTC : https://github.com/YCG09/chinese_ocr
