@@ -39,5 +39,24 @@ python setup.py install
 python run.py
 ```
 浏览器打开本地链接：http://127.0.0.1:5000/
+
 ![图片]()
-test
+## Training
+### CRNN
+#### 1.Prepare data
+- 通过数据增强将原始数据集扩充
+```shell
+python aug.py
+```
+- 将扩充过后的数据集分为训练集和验证集，生成 train.txt 和 test.txt
+```shell
+python cd.py
+```
+
+
+#### 2.Training
+```shell
+cd python
+python train.py
+```
+## 效果展示
