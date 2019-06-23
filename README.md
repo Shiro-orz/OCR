@@ -3,9 +3,9 @@
 项目已部署到服务器，可通过公网IP (http://139.224.132.209/) 进行访问。
 ## Local Operation
 ### 环境配置
-Ubuntu18.04 + Python3.6 + Tensorflow
+Ubuntu18.04 + Python3.6 + Tensorflow + keras
 
-Win10 + Python3.7 + Tensorflow
+Win10 + Python3.7 + Tensorflow + keras
 ```
 git clone
 virtualenv --no-site-packages --python=python3 venv
@@ -62,3 +62,5 @@ python train.py
 ## 效果展示
 
 ## Reference
+CTPN : https://github.com/eragonruan/text-detection-ctpn
+DenseNet + CTC : https://github.com/YCG09/chinese_ocr
