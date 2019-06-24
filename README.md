@@ -40,7 +40,6 @@ python run.py
 ```
 浏览器打开本地链接：http://127.0.0.1:5000/
 
-![图片]()
 ## Training
 ### CRNN
 #### 1.Prepare data
@@ -60,7 +59,7 @@ cd python
 python train.py
 ```
 ## 效果展示
-
+![图片]()
 ## Reference
 CTPN : https://github.com/eragonruan/text-detection-ctpn
 
