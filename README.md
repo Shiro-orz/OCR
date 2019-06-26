@@ -59,9 +59,11 @@ cd python
 python train.py
 ```
 ## 效果展示
- <img src="https://upload-images.jianshu.io/upload_images/16784976-e756949a8057fae6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50" width = "200" height = "350" alt="图片名称" align=center />
- <img src="https://upload-images.jianshu.io/upload_images/16784976-b68d8ecb533a78f9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50" width = "200" height = "350" alt="图片名称" align=center />
-<img src="https://upload-images.jianshu.io/upload_images/16784976-7642bffe2fd16c9b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50" width = "200" height = "350" alt="图片名称" align=center />
+<figure class = "third">
+    <img src="https://upload-images.jianshu.io/upload_images/16784976-e756949a8057fae6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50" width = "200" height = "350" alt="图片名称" align=center />
+    <img src="https://upload-images.jianshu.io/upload_images/16784976-b68d8ecb533a78f9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50" width = "200" height = "350" alt="图片名称" align=center />
+    <img src="https://upload-images.jianshu.io/upload_images/16784976-7642bffe2fd16c9b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50" width = "200" height = "350" alt="图片名称" align=center />
+</figure>
 
 ## Reference
 CTPN : https://github.com/eragonruan/text-detection-ctpn
