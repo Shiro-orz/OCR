@@ -59,7 +59,9 @@ cd python
 python train.py
 ```
 ## 效果展示
-![图片]()
+![pic1](https://upload-images.jianshu.io/upload_images/16784976-e756949a8057fae6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50)
+![pic2](https://upload-images.jianshu.io/upload_images/16784976-b68d8ecb533a78f9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50)
+![pic3](https://upload-images.jianshu.io/upload_images/16784976-7642bffe2fd16c9b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1080/q/50)
 ## Reference
 CTPN : https://github.com/eragonruan/text-detection-ctpn
 
